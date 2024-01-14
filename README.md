@@ -13,8 +13,5 @@ This project is a simple HTML form that allows users to submit their name, email
 - Basic knowledge of HTML/CSS for creating forms.
 - Basic PHP knowledge for handling form data.
 
-## Usage
+## Live Demo
 
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/html-form-project.git
